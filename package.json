@@ -1,0 +1,19 @@
+{
+  "name": "maildate",
+  "version": "0.0.0",
+  "description": "Mail Date formatting",
+  "main": "maildate.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goatslacker/maildate.git"
+  },
+  "keywords": [
+    "mail",
+    "date"
+  ],
+  "author": "Josh Perez",
+  "license": "MIT"
+}
